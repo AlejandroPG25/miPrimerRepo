@@ -1,4 +1,4 @@
-# miPrimerRepo
+miPrimerRepo
 
 Mi primer repositorio
 
